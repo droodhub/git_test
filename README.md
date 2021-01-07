@@ -1,0 +1,1 @@
+This is Drood's first git project!
